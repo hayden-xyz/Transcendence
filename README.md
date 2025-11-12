@@ -1,6 +1,5 @@
 # Transcendence 🏳️‍⚧️
 > A Resource Pack that aims to replace as many visuals of Minecraft as possible to have a Transgender theme!
-### Some screenshots in the Gallery are outdated! I will update them soon!
 ##
 
 ## List of Features: 🦈
