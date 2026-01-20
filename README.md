@@ -1,7 +1,6 @@
 <div align="center">
     🏳️‍⚧️ Trans Rights are Human Rights! 🏳️‍⚧️
-</div> 
-<br>
+</div>
 
 # Transcendence 🏳️‍⚧️
 
