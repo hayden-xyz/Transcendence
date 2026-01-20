@@ -1,3 +1,7 @@
+<div align="center">
+    🏳️‍⚧️ Trans Rights are Human Rights! 🏳️‍⚧️
+</div> 
+<br>
 # Transcendence 🏳️‍⚧️
 
 > A Resource Pack that aims to replace as many visuals of Minecraft as possible to have a Transgender theme!
