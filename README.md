@@ -53,7 +53,7 @@
 
     - Enchantment glint
 
-- <b>Particle</b>
+- ### Particle
 
     - Enchantment Table Particles (only 27% done atm)
 
