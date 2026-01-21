@@ -9,7 +9,7 @@
 ## List of Features: 🦈
 
 <details>
-<summary>List of Features:</summary>
+List of Features:
 
 ### Texts
 - Splash Texts
@@ -45,6 +45,7 @@
 
 </details>
 
+## Planned Re
 
 ## Version naming system: 😸
 > `X.Y.Z`
