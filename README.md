@@ -8,8 +8,6 @@
 
 ## List of Features: 🦈
 
-<summary>List of Features:</summary>
-
 ### Texts
 - Splash Texts
 
