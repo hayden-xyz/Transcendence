@@ -13,20 +13,13 @@
 
 ## List of current texture changes: 🦈
 
-- <b>Texts</b>
-
+- ### Texts
     - Splash Texts
 
-- <b>Entities</b>
-
+- ### Entities
     - Experience Orbs
-<!--
-<details>
-    <summary><b>GUI</b></summary>
--->
 
-- <b>GUI</b>
-
+- ### GUI
     - Crosshair
     - Ping icons
     - Title (Minceraft Easter Egg included)
@@ -40,21 +33,16 @@
     - Locator Bar
     - Mount Hearts (e.g: Horse, Donkey, etc)
     - Server Join Button
-<!--
-</details>
--->
-- <b>Items</b>
-    
+
+- ### Items
     - Enchanted Book
     - Nether Star
     - Bottle O' Enchanting
 
-- <b>Misc</b>
-
+- ### Misc
     - Enchantment glint
 
 - ### Particle
-
     - Enchantment Table Particles (only 27% done atm)
 
 ## Planned Additions / Texture changes:
