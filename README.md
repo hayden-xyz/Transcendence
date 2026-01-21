@@ -58,7 +58,7 @@
     - [ ] Main Menu Panorama
 
 ## Version naming system: 😸
-> <b>X.Y.Z</b>
+> <b>X . Y . Z</b>
 > 
 > <b>X</b> - Major Update
 > 
