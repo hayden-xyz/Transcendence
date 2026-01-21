@@ -58,12 +58,12 @@
     - [ ] Main Menu Panorama
 
 ## Version naming system: 😸
-> `X.Y.Z`
+> <b>X.Y.Z</b>
 > 
-> `X` - Major Update
+> <b>X</b> - Major Update
 > 
-> `Y` - New Features
+> <b>Y</b> - New Features
 > 
-> `Z` - Minor Patch
+> <b>Z</b> - Minor Patches / Fixes
 
 ##
