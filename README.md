@@ -13,61 +13,61 @@
 
 ## List of current texture changes: 🦈
 
-<b>Texts</b>
+- <b>Texts</b>
 
-- Splash Texts
+    - Splash Texts
 
-<b>Entities</b>
+- <b>Entities</b>
 
-- Experience Orbs
+    - Experience Orbs
 <!--
 <details>
     <summary><b>GUI</b></summary>
 -->
 
-<b>GUI</b>
+- <b>GUI</b>
 
-- Crosshair
-- Ping icons
-- Title (Minceraft Easter Egg included)
-- Normal Hearts
-- Hardcore Hearts
-- Absorbing Hearts
-- Hardcore Absorbing Hearts
-- Hotbar
-- Offhand
-- XP Bar
-- Locator Bar
-- Mount Hearts (e.g: Horse, Donkey, etc)
-- Server Join Button
+    - Crosshair
+    - Ping icons
+    - Title (Minceraft Easter Egg included)
+    - Normal Hearts
+    - Hardcore Hearts
+    - Absorbing Hearts
+    - Hardcore Absorbing Hearts
+    - Hotbar
+    - Offhand
+    - XP Bar
+    - Locator Bar
+    - Mount Hearts (e.g: Horse, Donkey, etc)
+    - Server Join Button
 <!--
 </details>
 -->
-<b>Items</b>
+- <b>Items</b>
+    
+    - Enchanted Book
+    - Nether Star
+    - Bottle O' Enchanting
 
-- Enchanted Book
-- Nether Star
-- Bottle O' Enchanting
+- <b>Misc</b>
 
-<b>Misc</b>
+    - Enchantment glint
 
-- Enchantment glint
+- <b>Particle</b>
 
-<b>Particle</b>
-
-- Enchantment Table Particles (only 27% done atm)
+    - Enchantment Table Particles (only 27% done atm)
 
 ## Planned Additions / Texture changes:
 
-<b>GUI</b>
+- <b>GUI</b>
 
-- [ ] Poison Hearts
-- [ ] Wither Hearts
-- [ ] Hunger Bar
-- [ ] Armor Bar
-- [ ] Jump Bar
-- [ ] Menu Background
-- [ ] Main Menu Panorama
+    - [ ] Poison Hearts
+    - [ ] Wither Hearts
+    - [ ] Hunger Bar
+    - [ ] Armor Bar
+    - [ ] Jump Bar
+    - [ ] Menu Background
+    - [ ] Main Menu Panorama
 
 ## Version naming system: 😸
 > `X.Y.Z`
