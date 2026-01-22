@@ -45,7 +45,7 @@
 
 ## Planned Additions / Texture changes:
 
-- <b>GUI:</b>
+- ### GUI:
 
     - [ ] Poison Hearts
     - [ ] Wither Hearts
@@ -55,7 +55,7 @@
     - [ ] Menu Background
     - [ ] Main Menu Panorama
 
-- <b>Misc:</b>
+- ### Misc:
 
     - [ ] More Splash Texts
 
