@@ -71,9 +71,9 @@
 ## Credits:
 
 ### Creator - indygowithay:
-    - [modrinth]("https://modrinth.com/user/4Soyqllb")
-    - [github]("https://github.com/indygowithay")
+- [modrinth](https://modrinth.com/user/4Soyqllb)
+- [github](https://github.com/indygowithay)
 
-### 1.20.1 Port - hayden-xyz
-    - [modrinth]("https://modrinth.com/user/63ewDdJm")
-    - [github]("https://github.com/hayden-xyz")
+### 1.20.1 Port - hayden-xyz:
+- [modrinth](https://modrinth.com/user/63ewDdJm)
+- [github](https://github.com/hayden-xyz)
