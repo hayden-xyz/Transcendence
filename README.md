@@ -11,20 +11,20 @@
 - Spash Texts
 
 ### Entity
-- Experience Orb
+- Experience Orbs
 
 ### GUI
 - Crosshair
-- Ping icons
+- Ping Icons
 - Title (Minceraft Easter Egg included)
 - Normal Hearts
 - Hardcore Hearts
 - Absorbing Hearts
 - Hardcore Absorbing Hearts
 - Hotbar
-- Offhand
-- XP bar
-- Locator bar
+- Offhand Slots
+- XP Bar
+- Locator Bar
 - 'Vehicle' Heart
 - Server Join Button
 
@@ -34,7 +34,7 @@
 - Bottle O' Enchanting
 
 ### Misc
-- Enchantment glint
+- Enchantment Glint
 
 ### Particle
 - Enchantment Table Particles (only 27% done atm)
@@ -43,15 +43,14 @@
 
 
 ##
-## Version naming system: 😸
+## Version Naming System: 😸
 > `X.Y.Z`
 > 
-> `X` - Dev State
+> `X` - Development State
 > 
 > `Y` - New Features
 > 
 > `Z` - Minor Patch
-
 
 
 ##
